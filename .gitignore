@@ -56,3 +56,5 @@ Thumbs.db
 # Poetry virtual environment if created inside the project
 .pdm-python
 
+*.csv
+
