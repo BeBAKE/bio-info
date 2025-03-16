@@ -1,5 +1,5 @@
 [project]
-name = "bio-info"
+name = "bio-info-pubmed"
 version = "0.1.0"
 description = "A tool to fetch research papers with non-academic authors from PubMed"
 authors = [{ name = "Vivek", email = "viveksinghcharak004@gmail.com" }]
